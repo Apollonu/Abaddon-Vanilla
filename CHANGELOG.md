@@ -68,7 +68,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.8](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
+    - Abaddon Client - [1.1.7](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.1.8](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Amendments - [1.2.18](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6181548) -> [1.2.19](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6259599)
     - Bedspreads - [6.2.0](https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/4597918) -> [6.3.0](https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/6401865)
