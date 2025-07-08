@@ -33,7 +33,6 @@
     - Kiwi - [11.8.30](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/6184688) -> [11.8.31](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/6466335)
     - Let Me Despawn - [1.4.4](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn/files/5803583) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn/files/6311230)
     - Moonlight Lib - [2.13.73](https://www.curseforge.com/minecraft/mc-mods/selene/files/6301468) -> [2.14.1](https://www.curseforge.com/minecraft/mc-mods/selene/files/6507197)
-    - Particle Core - [0.2.5](https://www.curseforge.com/minecraft/mc-mods/particle-core/files/5729965) -> [0.2.6](https://www.curseforge.com/minecraft/mc-mods/particle-core/files/6427560)
     - Polymorph - [0.49.8](https://www.curseforge.com/minecraft/mc-mods/polymorph/files/5995253) -> [0.49.10](https://www.curseforge.com/minecraft/mc-mods/polymorph/files/6450982)
     - Pretty Rain - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/pretty-rain/files/6195984) -> [1.1.3](https://www.curseforge.com/minecraft/mc-mods/pretty-rain/files/6411988)
     - Quark - [4.0-460](https://www.curseforge.com/minecraft/mc-mods/quark/files/5594847) -> [4.0-462](https://www.curseforge.com/minecraft/mc-mods/quark/files/6427817)
