@@ -20,11 +20,11 @@
     - Farmer's Delight - [1.2.7](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/6154802) -> [1.2.8](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/6597298)
     - FootprintParticle - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/5476636) -> [0.5.3](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/6684366)
     - Horseman - [1.3.6](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6485888) -> [1.3.9](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6605523)
-    - Lithostitched - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/lithostitched/files/6070361) -> [1.4.10](https://www.curseforge.com/minecraft/mc-mods/lithostitched/files/6703599)
+    - Lithostitched - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/lithostitched/files/6070361) -> [1.4.11](https://www.curseforge.com/minecraft/mc-mods/lithostitched/files/6742615)
     - Moonlight Lib - [2.14.1](https://www.curseforge.com/minecraft/mc-mods/selene/files/6507197) -> [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431)
     - Scholar - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6368136) -> [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456)
     - Snow! Real Magic! - [10.6.1](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6270136) -> [10.6.2](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6531952)
-    - Shoulder Surfing Reloaded - [4.11.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6499361) -> [4.13.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6672700)
+    - Shoulder Surfing Reloaded - [4.11.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6499361) -> [4.13.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6744389)
     - Supplementaries - [3.1.30](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6463022) -> [3.1.34](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6713838)
     - Tide - [1.5.0](https://www.curseforge.com/minecraft/mc-mods/tide/files/6106864) -> [1.6.2](https://www.curseforge.com/minecraft/mc-mods/tide/files/6712795)
   - Configs
