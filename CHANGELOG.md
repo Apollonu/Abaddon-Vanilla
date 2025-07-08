@@ -8,6 +8,7 @@
     - Blessfulled - [0.6](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691)
     - Fast Item Frames - [20.1.3](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames/files/6670089)
     - ToroHealth Damage Indicators - [1.0.0](https://modrinth.com/mod/torohealth-damage-indicators-updated/version/1.20.1-forge-1)
+    - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
