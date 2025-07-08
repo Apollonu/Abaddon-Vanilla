@@ -9,7 +9,7 @@
     - Fast Item Frames - [20.1.3](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames/files/6670089)
     - ToroHealth Damage Indicators - [1.0.0](https://modrinth.com/mod/torohealth-damage-indicators-updated/version/1.20.1-forge-1)
   - Resourcepacks / Shaderpacks
-    - none - 0.0.0
+    - none
 - Updates
   - Modpack
     - none
@@ -33,7 +33,7 @@
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
     - [ToroHealth Damage Indicators](https://modrinth.com/mod/torohealth-damage-indicators-updated) (Offset, Damage)
   - Resourcepacks / Shaderpacks
-    - none 0.0.0 -> 0.0.0
+    - none
 - Fixes
   - none
 - Reverts / Removals
