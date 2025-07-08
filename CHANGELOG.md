@@ -1,5 +1,50 @@
 <details close>
 <summary><h2>
+  Journey's Gate - <a href="">1.1.3</a> (Nightly)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - Blessfulled - [0.6](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691)
+    - Fast Item Frames - [20.1.3](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames/files/6670089)
+    - ToroHealth Damage Indicators - [1.0.0](https://modrinth.com/mod/torohealth-damage-indicators-updated/version/1.20.1-forge-1)
+  - Resourcepacks / Shaderpacks
+    - none - 0.0.0
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - Additional Placements - [2.2.2](https://www.curseforge.com/minecraft/mc-mods/additional-placements/files/6186584) -> [2.3.1](https://www.curseforge.com/minecraft/mc-mods/additional-placements/files/6596667)
+    - Exposure - [1.7.13](https://www.curseforge.com/minecraft/mc-mods/exposure/files/6436177) -> [1.7.16](https://www.curseforge.com/minecraft/mc-mods/exposure/files/6655718)
+    - Farmer's Delight - [1.2.7](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/6154802) -> [1.2.8](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/6597298)
+    - FootprintParticle - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/5476636) -> [0.5.3](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/6684366)
+    - Horseman - [1.3.6](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6485888) -> [1.3.9](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6605523)
+    - Lithostitched - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/lithostitched/files/6070361) -> [1.4.10](https://www.curseforge.com/minecraft/mc-mods/lithostitched/files/6703599)
+    - Moonlight Lib - [2.14.1](https://www.curseforge.com/minecraft/mc-mods/selene/files/6507197) -> [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431)
+    - Scholar - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6368136) -> [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456)
+    - Snow! Real Magic! - [10.6.1](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6270136) -> [10.6.2](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6531952)
+    - Shoulder Surfing Reloaded - [4.11.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6499361) -> [4.13.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6672700)
+    - Supplementaries - [3.1.30](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6463022) -> [3.1.34](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6713838)
+    - Tide - [1.5.0](https://www.curseforge.com/minecraft/mc-mods/tide/files/6106864) -> [1.6.2](https://www.curseforge.com/minecraft/mc-mods/tide/files/6712795)
+  - Configs
+    - [Aileron](https://www.curseforge.com/minecraft/mc-mods/aileron) (Cloud Height + Campfire Boost)
+    - [Blessfulled](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691) (Size)
+    - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) (Button)
+    - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
+    - [ToroHealth Damage Indicators](https://modrinth.com/mod/torohealth-damage-indicators-updated) (Offset, Damage)
+  - Resourcepacks / Shaderpacks
+    - none 0.0.0 -> 0.0.0
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - [EMI Loot](https://www.curseforge.com/minecraft/mc-mods/emi-loot)
+</details>
+
+<details close>
+<summary><h2>
   Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/6511099">1.1.2</a> (Modern Template)
 </h2></summary><br>
 
@@ -13,7 +58,7 @@
     - Carrot Rarity - [0.3](https://www.curseforge.com/minecraft/mc-mods/carrot-rarity/files/6078199)
     - ChoiceTheorem's Overhauled Village - [3.4.14](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village/files/6459777) + Lithostitched - [1.4](https://www.curseforge.com/minecraft/mc-mods/lithostitched/files/6070361)
     - Farmer's Delight - [1.2.7](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/6154802)
-    - Footprint Particle - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/5476636)
+    - FootprintParticle - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/5476636)
     - Sidekick - [2.0.5](https://www.curseforge.com/minecraft/mc-mods/sidekick/files/4748867)
     - Smarter Farmers - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/smarter-farmers-farmers-replant/files/6331323)
     - Spawn Animations - [1.10.1](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/6448104)
@@ -48,7 +93,7 @@
     - [Additional Placements](https://www.curseforge.com/minecraft/mc-mods/additional-placements) (Tags)
     - [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) (Minimum Y-Axis)
     - [Bigger Better End Cities](https://www.curseforge.com/minecraft/mc-mods/bigger-better-end-cities)
-    - [Footprint Particle](https://www.curseforge.com/minecraft/mc-mods/footprintparticle)
+    - [FootprintParticle](https://www.curseforge.com/minecraft/mc-mods/footprintparticle)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) (More Particles)
     - [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/ssr) (Less Spread)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
