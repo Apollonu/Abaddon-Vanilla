@@ -1,6 +1,6 @@
 <details close>
 <summary><h2>
-  Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/6511099">1.1.2</a>
+  Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/6511099">1.1.2</a> (Modern Template)
 </h2></summary><br>
 
 - Additions
@@ -396,7 +396,7 @@
 
 <details close>
 <summary><h2>
-  Journey's Gate - 1.0.1
+  Journey's Gate - 1.0.1 (Unreleased)
 </h2></summary><br>
 
 - Additions
