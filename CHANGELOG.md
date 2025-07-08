@@ -13,7 +13,7 @@
     - none
 - Updates
   - Modpack
-    - none
+    - Abaddon Client - [1.1.8](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.1.9](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Additional Placements - [2.2.2](https://www.curseforge.com/minecraft/mc-mods/additional-placements/files/6186584) -> [2.3.1](https://www.curseforge.com/minecraft/mc-mods/additional-placements/files/6596667)
     - Exposure - [1.7.13](https://www.curseforge.com/minecraft/mc-mods/exposure/files/6436177) -> [1.7.16](https://www.curseforge.com/minecraft/mc-mods/exposure/files/6655718)
@@ -68,7 +68,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.8](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6511079)
+    - Abaddon Client - [1.1.8]((https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Amendments - [1.2.18](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6181548) -> [1.2.19](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6259599)
     - Bedspreads - [6.2.0](https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/4597918) -> [6.3.0](https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/6401865)
@@ -126,7 +126,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.7](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6301982)
+    - Abaddon Client - [1.1.7](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Fzzy Config - [0.6.5-fix1](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6283847)
     - Kiwi - [11.8.30](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/6184688)
@@ -196,7 +196,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.6](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6211859)
+    - Abaddon Client - [1.1.6](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - [Additional Placements](https://www.curseforge.com/minecraft/mc-mods/additional-placements)
     - [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
@@ -233,7 +233,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.5](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6147990)
+    - Abaddon Client - [1.1.5](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
     - [Cobweb](https://www.curseforge.com/minecraft/mc-mods/cobweb)
@@ -273,7 +273,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.4](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6104935)
+    - Abaddon Client - [1.1.4](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - [Additional Placements](https://www.curseforge.com/minecraft/mc-mods/additional-placements)
   - Configs
@@ -300,19 +300,19 @@
 
 - Additions
   - Mods
-    - none - 0.0.0
+    - none
   - Resourcepacks / Shaderpacks
-    - none - 0.0.0
+    - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.3](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6056967)
+    - Abaddon Client - [1.1.3](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - [Detected setBlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/detected-setblock-be-gone)
   - Configs
     - [Additional Placements](https://www.curseforge.com/minecraft/mc-mods/additional-placements)
     - [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) (Crashes)
   - Resourcepacks / Shaderpacks
-    - none 0.0.0
+    - none
 - Fixes
   - none
 - Reverts / Removals
@@ -368,7 +368,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client [1.1.2](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6026117)
+    - Abaddon Client [1.1.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - none
   - Configs
@@ -424,7 +424,7 @@
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.0](https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6020222)
+    - Abaddon Client - [1.1.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - none
   - Configs
