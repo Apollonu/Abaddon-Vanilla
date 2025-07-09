@@ -49,7 +49,6 @@
   - Removals
     - [Backport Paintings 1.21](https://www.curseforge.com/minecraft/mc-mods/paintings-1-21-backport)
     - [EMI Loot](https://www.curseforge.com/minecraft/mc-mods/emi-loot)
-    - [Experimental Settings Disabler](https://www.curseforge.com/minecraft/mc-mods/experimental-settings-disabler)
 </details>
 
 <details close>
