@@ -13,7 +13,7 @@
     - ToroHealth Damage Indicators - [1.0.0](https://modrinth.com/mod/torohealth-damage-indicators-updated/version/1.20.1-forge-1)
     - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262)
   - Resourcepacks / Shaderpacks
-    - none
+    - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683)
 - Updates
   - Modpack
     - Abaddon Client - [1.1.8](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.1.9](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
