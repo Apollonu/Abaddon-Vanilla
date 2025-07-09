@@ -9,9 +9,12 @@
     - Easel Does It! - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/6442916) + Blueprint - [7.1.3](https://www.curseforge.com/minecraft/mc-mods/blueprint/files/6408581)
     - Fast Item Frames - [20.1.3](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames/files/6670089)
     - Gallery - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/gallery/files/6321203)
+    - PotionLevelFix - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/5787723)
     - Portfolio - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/5654124)
+    - Skippy Pearls - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/6252555)
     - ToroHealth Damage Indicators - [1.0.0](https://modrinth.com/mod/torohealth-damage-indicators-updated/version/1.20.1-forge-1)
     - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262)
+    - Vanilla Backport - [1.1.4.3](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/6696334) + Platform [1.2.10.1](https://www.curseforge.com/minecraft/mc-mods/platform/files/6673724)
   - Resourcepacks / Shaderpacks
     - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683)
 - Updates
