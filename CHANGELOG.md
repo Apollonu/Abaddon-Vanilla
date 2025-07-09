@@ -6,7 +6,10 @@
 - Additions
   - Mods
     - Blessfulled - [0.6](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691)
+    - Easel Does It! - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/6442916) + Blueprint - [7.1.3](https://www.curseforge.com/minecraft/mc-mods/blueprint/files/6408581)
     - Fast Item Frames - [20.1.3](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames/files/6670089)
+    - Gallery - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/gallery/files/6321203)
+    - Portfolio - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/5654124)
     - ToroHealth Damage Indicators - [1.0.0](https://modrinth.com/mod/torohealth-damage-indicators-updated/version/1.20.1-forge-1)
     - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262)
   - Resourcepacks / Shaderpacks
@@ -31,6 +34,8 @@
   - Configs
     - [Aileron](https://www.curseforge.com/minecraft/mc-mods/aileron) (Cloud Height + Campfire Boost)
     - [Blessfulled](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691) (Size)
+    - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
+    - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) (Button)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
     - [ToroHealth Damage Indicators](https://modrinth.com/mod/torohealth-damage-indicators-updated) (Offset, Damage)
@@ -42,7 +47,9 @@
   - Reverts
     - none
   - Removals
+    - [Backport Paintings 1.21](https://www.curseforge.com/minecraft/mc-mods/paintings-1-21-backport)
     - [EMI Loot](https://www.curseforge.com/minecraft/mc-mods/emi-loot)
+    - [Experimental Settings Disabler](https://www.curseforge.com/minecraft/mc-mods/experimental-settings-disabler)
 </details>
 
 <details close>
