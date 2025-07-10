@@ -112,7 +112,7 @@
 	"Compressed Blocks" = true
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
-	"Glass Item Frame" = true
+	"Glass Item Frame" = false
 	"Gold Bars" = true
 	Grate = true
 	Hedges = false
@@ -161,10 +161,10 @@
 		"Enable Stick Block" = true
 		"Enable Apple Crate" = true
 		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = true
-		"Enable Carrot Crate" = true
+		"Enable Potato Crate" = false
+		"Enable Carrot Crate" = false
 		"Enable Golden Carrot Crate" = true
-		"Enable Beetroot Crate" = true
+		"Enable Beetroot Crate" = false
 		"Enable Cocoa Bean Sack" = true
 		"Enable Nether Wart Sack" = true
 		"Enable Gunpowder Sack" = true
@@ -1131,7 +1131,7 @@
 		#Percentage of fallen logs spawning as hollow. Requires Hollow Logs Module to be enabled
 		"Hollow Chance" = 0.7
 		Rarity = 5
-		#chance for logs to spawn on water
+		#Chance for logs to spawn on water
 		"On Water Chance" = 0.1
 		"Sparse Biome Rarity" = 12
 		#Tags that define which biomes can have which wood types
@@ -1353,7 +1353,7 @@
 	Shiba = false
 	Stonelings = false
 	Toretoise = false
-	Wraith = false
+	Wraith = true
 
 	[mobs.crabs]
 		"Enable Brewing" = true
@@ -1394,11 +1394,11 @@
 
 		[mobs.foxhound.spawn_config]
 			#Allowed values: (0,)
-			"Spawn Weight" = 30
+			"Spawn Weight" = 25
 			#Allowed values: [1,)
 			"Min Group Size" = 1
 			#Allowed values: [1,)
-			"Max Group Size" = 2
+			"Max Group Size" = 3
 
 			[mobs.foxhound.spawn_config.biomes]
 
@@ -1530,14 +1530,14 @@
 		"Wraith Sounds" = ["entity.sheep.ambient|entity.sheep.hurt|entity.sheep.death", "entity.cow.ambient|entity.cow.hurt|entity.cow.death", "entity.pig.ambient|entity.pig.hurt|entity.pig.death", "entity.chicken.ambient|entity.chicken.hurt|entity.chicken.death", "entity.horse.ambient|entity.horse.hurt|entity.horse.death", "entity.cat.ambient|entity.cat.hurt|entity.cat.death", "entity.wolf.ambient|entity.wolf.hurt|entity.wolf.death", "entity.villager.ambient|entity.villager.hurt|entity.villager.death", "entity.polar_bear.ambient|entity.polar_bear.hurt|entity.polar_bear.death", "entity.zombie.ambient|entity.zombie.hurt|entity.zombie.death", "entity.skeleton.ambient|entity.skeleton.hurt|entity.skeleton.death", "entity.spider.ambient|entity.spider.hurt|entity.spider.death", "|entity.creeper.hurt|entity.creeper.death", "entity.endermen.ambient|entity.endermen.hurt|entity.endermen.death", "entity.zombie_pig.ambient|entity.zombie_pig.hurt|entity.zombie_pig.death", "entity.witch.ambient|entity.witch.hurt|entity.witch.death", "entity.blaze.ambient|entity.blaze.hurt|entity.blaze.death", "entity.llama.ambient|entity.llama.hurt|entity.llama.death", "|quark:entity.stoneling.cry|quark:entity.stoneling.die", "quark:entity.frog.idle|quark:entity.frog.hurt|quark:entity.frog.die"]
 
 		[mobs.wraith.spawn_config]
-			"Max Cost" = 0.7
-			"Spawn Cost" = 0.15
+			"Max Cost" = 2.0
+			"Spawn Cost" = 0.5
 			#Allowed values: (0,)
-			"Spawn Weight" = 5
+			"Spawn Weight" = 3
 			#Allowed values: [1,)
 			"Min Group Size" = 1
 			#Allowed values: [1,)
-			"Max Group Size" = 3
+			"Max Group Size" = 2
 
 			[mobs.wraith.spawn_config.biomes]
 
@@ -1917,6 +1917,10 @@
 		"Influence Power" = 0.125
 		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
 		"Automatically Convert" = true
+		#Set this to true to allow undiscoverable enchantments to be rolled as pieces
+		"Allow Undiscoverable Enchantments" = false
+		#Any undiscoverable enchantment IDs here will be able to appear in matrix enchanting
+		"Undiscoverable Whitelist" = []
 
 	[oddities.pipes]
 		#How long it takes for an item to cross a pipe. Bigger = slower.
