@@ -7,6 +7,7 @@
   - Mods
     - Blessfulled - [0.6](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691)
     - Easel Does It! - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/6442916) + Blueprint - [7.1.3](https://www.curseforge.com/minecraft/mc-mods/blueprint/files/6408581)
+    - Easy Anvils - [8.0.2](https://www.curseforge.com/minecraft/mc-mods/easy-anvils/files/5156621)
     - Fast Item Frames - [20.1.3](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames/files/6670089)
     - Gallery - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/gallery/files/6321203)
     - PotionLevelFix - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/5787723)
@@ -38,6 +39,7 @@
   - Configs
     - [Aileron](https://www.curseforge.com/minecraft/mc-mods/aileron) (Cloud Height + Campfire Boost)
     - [Blessfulled](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691) (Size)
+    - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
     - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) (Button)
