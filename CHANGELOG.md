@@ -41,6 +41,7 @@
     - [Blessfulled](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691) (Size)
     - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
     - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
+    - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) (Button)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
