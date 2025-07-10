@@ -39,6 +39,7 @@
   - Configs
     - [Aileron](https://www.curseforge.com/minecraft/mc-mods/aileron) (Cloud Height + Campfire Boost)
     - [Blessfulled](https://www.curseforge.com/minecraft/mc-mods/blessfulled/files/6624691) (Size)
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
     - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
