@@ -17,6 +17,7 @@
     - Vanilla Backport - [1.1.4.3](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/6696334) + Platform [1.2.10.1](https://www.curseforge.com/minecraft/mc-mods/platform/files/6673724)
   - Resourcepacks / Shaderpacks
     - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683)
+    - Glowing Ender Dragon - [1.0.0](https://www.curseforge.com/minecraft/texture-packs/glowing-ender-dragon/files/4409148)
 - Updates
   - Modpack
     - Abaddon Client - [1.1.8](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.1.9](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
