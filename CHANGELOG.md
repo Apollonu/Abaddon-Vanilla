@@ -32,9 +32,9 @@
     - Moonlight Lib - [2.14.1](https://www.curseforge.com/minecraft/mc-mods/selene/files/6507197) -> [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431)
     - Scholar - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6368136) -> [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456)
     - Shoulder Surfing Reloaded - [4.11.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6499361) -> [4.13.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6744389)
-    - Snow Under Trees - [1.4.10](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/files/6378650) -> [1.4.11](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/files/6747368)
+    - Snow Under Trees - [1.4.10](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/files/6378650) -> [1.4.12](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/files/6751711)
     - Snow! Real Magic! - [10.6.1](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6270136) -> [10.6.2](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6531952)
-    - Supplementaries - [3.1.30](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6463022) -> [3.1.35](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6747395)
+    - Supplementaries - [3.1.30](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6463022) -> [3.1.36](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6749363)
     - Tide - [1.5.0](https://www.curseforge.com/minecraft/mc-mods/tide/files/6106864) -> [1.6.2](https://www.curseforge.com/minecraft/mc-mods/tide/files/6712795)
   - Configs
     - [Aileron](https://www.curseforge.com/minecraft/mc-mods/aileron) (Cloud Height + Campfire Boost)
