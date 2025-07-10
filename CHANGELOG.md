@@ -45,7 +45,9 @@
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) (Button)
+    - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (Compreessed Blocks, Foxhound, Glass Item Frame, Wraith)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
+    - [Supplemtaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (Quiver)
     - [ToroHealth Damage Indicators](https://modrinth.com/mod/torohealth-damage-indicators-updated) (Offset, Damage)
   - Resourcepacks / Shaderpacks
     - none
