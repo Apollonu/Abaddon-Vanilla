@@ -1,20 +1,20 @@
 <details close>
 <summary><h2>
-  Journey's Gate - <a href="">1.1.4</a> (Nightly)
+  Journey's Gate - <a href="">1.1.5</a> (Nightly)
 </h2></summary><br>
 
 - Additions
   - Mods
-    - Status Effect Bars - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars-reforged/files/6671381)
+    - none
   - Resourcepacks / Shaderpacks
     - none
 - Updates
   - Modpack
-    - Abaddon Client - [1.1.9](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
+    - Abaddon Client - [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - none
   - Configs
-    - none (?)
+    - none
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
@@ -28,7 +28,35 @@
 
 <details close>
 <summary><h2>
-  Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/6756683">1.1.3</a> (Current Release)
+  Journey's Gate - <a href="">1.1.4</a> (Current Release)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - Status Effect Bars - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars-reforged/files/6671381)
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - Abaddon Client - [1.1.9](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
+  - Mods
+    - none
+  - Configs
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/6756683">1.1.3</a>
 </h2></summary><br>
 
 - Additions
