@@ -10,7 +10,7 @@
     - none
 - Updates
   - Modpack
-    - none
+    - Abaddon Client - [1.1.9](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - none
   - Configs
