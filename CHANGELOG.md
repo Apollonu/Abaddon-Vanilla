@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Status Effect Bars - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars-reforged/files/6671381)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
