@@ -12,9 +12,15 @@
   - Modpack
     - Abaddon Client - [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
-    - none
+    - KleeSlabs - [15.0.6](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6226684) -> [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)
+    - Moonlight Lib - [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431) -> [2.14.14](https://www.curseforge.com/minecraft/mc-mods/selene/files/6815733)
+    - Shoulder Surfing Reloaded - [4.13.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6744389) -> [4.14.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6784150)
+    - Simple Snowy Fix - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6353157) -> [2.1.4](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6769209)
+    - Snow! Real Magic! - [10.6.2](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6531952) -> [10.6.4](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6779427)
+    - Tide - [1.6.2](https://www.curseforge.com/minecraft/mc-mods/tide/files/6712795) -> [1.6.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/6807872)
+    - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262) -> [1.2.0](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6809516)
   - Configs
-    - none
+    - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
