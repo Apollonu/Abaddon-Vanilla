@@ -18,7 +18,7 @@
     - Simple Snowy Fix - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6353157) -> [2.1.4](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6769209)
     - Snow! Real Magic! - [10.6.2](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6531952) -> [10.6.4](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6779427)
     - Tide - [1.6.2](https://www.curseforge.com/minecraft/mc-mods/tide/files/6712795) -> [1.6.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/6807872)
-    - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262) -> [1.2.0](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6809516)
+    - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262) -> [1.2.2](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6809516)
   - Configs
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
   - Resourcepacks / Shaderpacks
