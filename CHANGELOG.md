@@ -14,7 +14,7 @@
   - Mods
     - Horseman - [1.3.9](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6605523) -> [1.3.11](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6828550)
     - KleeSlabs - [15.0.6](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6226684) -> [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)
-    - Moonlight Lib - [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431) -> [2.15.2](https://www.curseforge.com/minecraft/mc-mods/selene/files/6839610)
+    - Moonlight Lib - [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431) -> [2.14.14](https://www.curseforge.com/minecraft/mc-mods/selene/files/6839610)
     - Shoulder Surfing Reloaded - [4.13.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6744389) -> [4.14.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6784150)
     - Simple Snowy Fix - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6353157) -> [2.1.4](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6769209)
     - Snow! Real Magic! - [10.6.2](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6531952) -> [10.6.4](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6779427)
