@@ -12,9 +12,10 @@
   - Modpack
     - Abaddon Client - [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
+    - Amendments - [1.2.19](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6259599) -> [2.0.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6850027)
     - Horseman - [1.3.9](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6605523) -> [1.3.11](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6828550)
     - KleeSlabs - [15.0.6](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6226684) -> [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)
-    - Moonlight Lib - [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431) -> [2.15.4b](https://www.curseforge.com/minecraft/mc-mods/selene/files/6842707)
+    - Moonlight Lib - [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431) -> [2.15.6](https://www.curseforge.com/minecraft/mc-mods/selene/files/6846127)
     - Shoulder Surfing Reloaded - [4.13.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6744389) -> [4.14.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6784150)
     - Simple Snowy Fix - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6353157) -> [2.1.4](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6769209)
     - Snow! Real Magic! - [10.6.2](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6531952) -> [10.6.4](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6779427)
