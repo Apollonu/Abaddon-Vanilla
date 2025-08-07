@@ -5,7 +5,8 @@
 
 - Additions
   - Mods
-    - none
+    - Cascades - 1.0.4
+    - Pufferfish's Biome Dither - 0.1.0
   - Resourcepacks / Shaderpacks
     - none
 - Updates
