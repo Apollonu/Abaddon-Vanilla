@@ -26,7 +26,7 @@
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - none
+  - Missing Mods (Mojang Logo Animation)
 - Reverts / Removals
   - Reverts
     - none
