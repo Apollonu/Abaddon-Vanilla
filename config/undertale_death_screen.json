@@ -1,0 +1,9 @@
+{
+  "style": "ROTATION",
+  "musicTurnoff": true,
+  "determination": false,
+  "centeredHeart": false,
+  "centeredHeartAnimation": false,
+  "centeredHeartSpeed": 0.15,
+  "dynamicHeart": true
+}
