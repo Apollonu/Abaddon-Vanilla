@@ -6,9 +6,10 @@
 - Additions
   - Mods
     - Cascades - [1.0.4](https://modrinth.com/datapack/hybrid-beta/version/CbXjARnR)
+    - Paxi - [4.0.0](https://www.curseforge.com/minecraft/mc-mods/paxi/files/4749994)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187)
   - Resourcepacks / Shaderpacks
-    - none
+    - CTOV - Longer Roads - [2.0.0](https://www.curseforge.com/minecraft/data-packs/ctov-longer-roads/files/6412913)
 - Updates
   - Modpack
     - Abaddon Client - [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
@@ -23,6 +24,7 @@
     - Tide - [1.6.2](https://www.curseforge.com/minecraft/mc-mods/tide/files/6712795) -> [1.6.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/6807872)
     - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262) -> [1.2.2](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6809516)
   - Configs
+    - [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
   - Resourcepacks / Shaderpacks
     - none
