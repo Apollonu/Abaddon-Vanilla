@@ -32,6 +32,7 @@
     - [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
     - [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage) (Bad Omen)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
+    - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
