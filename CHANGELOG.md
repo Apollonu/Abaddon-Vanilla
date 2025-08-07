@@ -8,6 +8,7 @@
     - Cascades - [1.0.4](https://modrinth.com/datapack/hybrid-beta/version/CbXjARnR)
     - Paxi - [4.0.0](https://www.curseforge.com/minecraft/mc-mods/paxi/files/4749994)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187)
+    - Savage & Ravage - [6.0.0](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/6040963)
   - Resourcepacks / Shaderpacks
     - CTOV - Longer Roads - [2.0.0](https://www.curseforge.com/minecraft/data-packs/ctov-longer-roads/files/6412913)
 - Updates
@@ -25,6 +26,7 @@
     - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262) -> [1.2.2](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6809516)
   - Configs
     - [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
+    - [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage) (Bad Omen)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
   - Resourcepacks / Shaderpacks
     - none
