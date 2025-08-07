@@ -6,9 +6,11 @@
 - Additions
   - Mods
     - Cascades - [1.0.4](https://modrinth.com/datapack/hybrid-beta/version/CbXjARnR)
+    - Clayworks - [3.0.4](https://www.curseforge.com/minecraft/mc-mods/clayworks/files/6321200)
     - Paxi - [4.0.0](https://www.curseforge.com/minecraft/mc-mods/paxi/files/4749994)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187)
     - Savage & Ravage - [6.0.0](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/6040963)
+    - The Endergetic Expansion - [5.0.1](https://www.curseforge.com/minecraft/mc-mods/endergetic/files/6157658)
   - Resourcepacks / Shaderpacks
     - CTOV - Longer Roads - [2.0.0](https://www.curseforge.com/minecraft/data-packs/ctov-longer-roads/files/6412913)
 - Updates
