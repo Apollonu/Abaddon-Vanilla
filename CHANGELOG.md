@@ -26,7 +26,7 @@
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - Missing Mods (Mojang Logo Animation)
+  - Missing Mods (Configured, Mojang Logo Animation)
 - Reverts / Removals
   - Reverts
     - none
