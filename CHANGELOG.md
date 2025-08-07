@@ -5,8 +5,8 @@
 
 - Additions
   - Mods
-    - Cascades - 1.0.4
-    - Pufferfish's Biome Dither - 0.1.0
+    - Cascades - [1.0.4](https://modrinth.com/datapack/hybrid-beta/version/CbXjARnR)
+    - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
