@@ -28,7 +28,7 @@
     - Abaddon Client - [1.2.0](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Amendments - [1.2.19](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6259599) -> [2.0.6](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6864192)
-    - Footprint Particle - [0.5.3](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/6684366) -> [0.5.4](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/6858448)
+    - Footprint Particle - [0.5.3](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/6684366) -> [0.5.4b](https://www.curseforge.com/minecraft/mc-mods/footprintparticle/files/6863220)
     - Horseman - [1.3.9](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6605523) -> [1.3.11](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6828550)
     - KleeSlabs - [15.0.6](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6226684) -> [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)
     - Moonlight Lib - [2.14.13](https://www.curseforge.com/minecraft/mc-mods/selene/files/6740431) -> [2.15.6](https://www.curseforge.com/minecraft/mc-mods/selene/files/6846127)
