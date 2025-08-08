@@ -7,7 +7,10 @@
   - Mods
     - Cascades - [1.0.4](https://modrinth.com/datapack/hybrid-beta/version/CbXjARnR)
     - Clayworks - [3.0.4](https://www.curseforge.com/minecraft/mc-mods/clayworks/files/6321200)
+    - Ender's Delight - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/enders-delight/files/6474007)
+    - Ender Trigon - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/ender-trigon/files/5388736)
     - Golem Spawn Fix - [1.0.2](https://www.curseforge.com/minecraft/mc-mods/golem-spawn-fix/files/6467849)
+    - My Nether's Delight - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight/files/6529919)
     - Paxi - [4.0.0](https://www.curseforge.com/minecraft/mc-mods/paxi/files/4749994)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187)
     - Savage & Ravage - [6.0.0](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/6040963)
