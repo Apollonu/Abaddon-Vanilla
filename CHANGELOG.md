@@ -9,6 +9,8 @@
     - Clayworks - [3.0.4](https://www.curseforge.com/minecraft/mc-mods/clayworks/files/6321200)
     - Ender's Delight - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/enders-delight/files/6474007)
     - Ender Trigon - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/ender-trigon/files/5388736)
+    - Friends&Foes - [3.0.9](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge/files/6354624)
+    - Friends&Foes Flowery Mooblooms - [2.0.2](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-flowery-mooblooms-forge/files/5526965)
     - Golem Spawn Fix - [1.0.2](https://www.curseforge.com/minecraft/mc-mods/golem-spawn-fix/files/6467849)
     - My Nether's Delight - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight/files/6529919)
     - Paxi - [4.0.0](https://www.curseforge.com/minecraft/mc-mods/paxi/files/4749994)
@@ -37,6 +39,7 @@
     - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262) -> [1.2.2](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6809516)
   - Configs
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery) (Sheep)
+    - [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)
     - [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
     - [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage) (Bad Omen)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
