@@ -7,6 +7,7 @@
   - Mods
     - Cascades - [1.0.4](https://modrinth.com/datapack/hybrid-beta/version/CbXjARnR)
     - Clayworks - [3.0.4](https://www.curseforge.com/minecraft/mc-mods/clayworks/files/6321200)
+    - Eccentric Tome - [1.10.3](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome/files/6011829)
     - Ender's Delight - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/enders-delight/files/6474007)
     - Ender Trigon - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/ender-trigon/files/5388736)
     - Friends&Foes - [3.0.9](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge/files/6354624)
