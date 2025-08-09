@@ -45,6 +45,7 @@
     - [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage) (Bad Omen)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
     - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen)
+    - [Wither: Reincarnated](https://www.curseforge.com/minecraft/mc-mods/wither-reincarnated)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
