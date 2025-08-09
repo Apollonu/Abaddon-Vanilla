@@ -39,6 +39,7 @@
     - Tide - [1.6.2](https://www.curseforge.com/minecraft/mc-mods/tide/files/6712795) -> [1.6.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/6807872)
     - Undertale Death Screen - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6409262) -> [1.2.2](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen/files/6809516)
   - Configs
+    - [Bigger Better End Cities](https://www.curseforge.com/minecraft/mc-mods/bigger-better-end-cities)
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery) (Sheep)
     - [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)
     - [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
