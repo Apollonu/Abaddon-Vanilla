@@ -15,7 +15,7 @@
     - Amendments - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6864192) -> [2.0.7](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6869289)
     - KleeSlabs - [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)  -> [15.0.9](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6868042)
   - Configs
-    - none
+    - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
