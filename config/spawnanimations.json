@@ -1,6 +1,10 @@
 {
-  "activation_distance": 0,
+  "activation_distance": 60,
   "activation_mode": "VANILLA",
+  "enable_poof_animation": "WORLD",
+  "play_animation_sounds": "WORLD",
   "hide_worn_armor_and_tools": "YES",
+  "hide_emissive_mob_layers": "WORLD",
+  "reduce_enderman_particles": "WORLD",
   "play_animation_on_unsupported_blocks": "YES"
 }
