@@ -7,7 +7,7 @@
   - Mods
     - Fluidium - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/fluidium/files/6854183)
   - Resourcepacks / Shaderpacks
-    - none
+    - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
 - Updates
   - Modpack
     - none
