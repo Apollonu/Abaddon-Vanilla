@@ -6,6 +6,7 @@
 - Additions
   - Mods
     - Fluidium - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/fluidium/files/6854183)
+    - Jaden's Nether Expansion - [2.3.5](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion/files/6729020) + Elysium API - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/elysium-api/files/6589093)
   - Resourcepacks / Shaderpacks
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
 - Updates
