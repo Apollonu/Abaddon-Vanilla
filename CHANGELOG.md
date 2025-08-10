@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Fluidium - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/fluidium/files/6854183)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
