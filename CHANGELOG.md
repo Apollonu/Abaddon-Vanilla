@@ -11,7 +11,7 @@
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
 - Updates
   - Modpack
-    - none
+    - Abaddon Client - [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Amendments - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6864192) -> [2.0.7](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6869289)
     - KleeSlabs - [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)  -> [15.0.9](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6868042)
