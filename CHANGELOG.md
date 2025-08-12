@@ -15,6 +15,7 @@
   - Mods
     - Amendments - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6864192) -> [2.1.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6875720)
     - KleeSlabs - [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)  -> [15.0.9](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6868042)
+    - Moonlight Lib - [2.15.6](https://www.curseforge.com/minecraft/mc-mods/selene/files/6846127) -> [2.15.7](https://www.curseforge.com/minecraft/mc-mods/selene/files/6877879)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187) -> [0.1.1](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6874340)
   - Configs
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Missing Mod Icons)
