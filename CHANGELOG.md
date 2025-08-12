@@ -6,6 +6,7 @@
 - Additions
   - Mods
     - Fluidium - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/fluidium/files/6854183)
+    - Global GameRules - [8.0.0.11](https://www.curseforge.com/minecraft/mc-mods/global-gamerules/files/4587490)
     - Jaden's Nether Expansion - [2.3.5](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion/files/6729020) + Elysium API - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/elysium-api/files/6589093)
   - Resourcepacks / Shaderpacks
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
@@ -18,6 +19,7 @@
     - Moonlight Lib - [2.15.6](https://www.curseforge.com/minecraft/mc-mods/selene/files/6846127) -> [2.15.7](https://www.curseforge.com/minecraft/mc-mods/selene/files/6877879)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187) -> [0.1.1](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6874340)
   - Configs
+    - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Missing Mod Icons)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
   - Resourcepacks / Shaderpacks
