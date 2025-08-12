@@ -13,8 +13,9 @@
   - Modpack
     - Abaddon Client - [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
-    - Amendments - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6864192) -> [2.0.7](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6869289)
+    - Amendments - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6864192) -> [2.1.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6875720)
     - KleeSlabs - [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)  -> [15.0.9](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6868042)
+    - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187) -> [0.1.1](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6874340)
   - Configs
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Missing Mod Icons)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
