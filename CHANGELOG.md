@@ -23,7 +23,7 @@
     - Supplementaries - [3.1.36](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6749363) -> [3.1.37](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6889003)
   - Configs
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
-    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Missing Mod Icons)
+    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
     - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
   - Resourcepacks / Shaderpacks
