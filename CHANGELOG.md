@@ -24,6 +24,7 @@
   - Configs
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Missing Mod Icons)
+    - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
   - Resourcepacks / Shaderpacks
     - none
