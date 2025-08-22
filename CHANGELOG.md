@@ -34,7 +34,7 @@
   - Reverts
     - none
   - Removals
-    - none
+    - [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass)
 </details>
 
 <details close>
