@@ -231,7 +231,7 @@
     - Simple Snowy Fix - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6296542) -> [2.1.3](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6353157)
     - Shoulder Surfing Reloaded - [4.10.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6268158) -> [4.11.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6499361)
     - Snow Under Trees - [1.4.9](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/files/6173030) -> [1.4.10](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/files/6378650)
-    - Supplementaries - [3.1.18](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6228530) -> [3.1.30](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6463022)https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537
+    - Supplementaries - [3.1.18](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6228530) -> [3.1.30](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6463022)
     - Variable Spawner Hardness - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/variable-spawner-hardness/files/4593378) -> [1.4.2](https://www.curseforge.com/minecraft/mc-mods/variable-spawner-hardness/files/6407087)
     - Watut - [1.2.2](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to/files/6299347) -> [1.2.3](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to/files/6315241)
     - Zeta - [1.0-24](https://www.curseforge.com/minecraft/mc-mods/zeta/files/5597406) -> [1.0-30](https://www.curseforge.com/minecraft/mc-mods/zeta/files/6432578)
