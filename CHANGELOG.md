@@ -15,10 +15,11 @@
     - Abaddon Client - [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Amendments - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6864192) -> [2.2.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537)
+    - Farmer's Delight - [1.2.8](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/6597298) -> [1.2.9](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/6917255)
     - Kiwi - [11.8.31](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/6466335) -> [11.9.2](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/6907020)
     - KleeSlabs - [15.0.8](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6779704)  -> [15.0.9](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/6868042)
-    - Moonlight Lib - [2.15.6](https://www.curseforge.com/minecraft/mc-mods/selene/files/6846127) -> [2.16.5](https://www.curseforge.com/minecraft/mc-mods/selene/files/6902841)
-    - PotionLevelFix - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/5787723) -> [1.4.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/6888486)
+    - Moonlight Lib - [2.16.5](https://www.curseforge.com/minecraft/mc-mods/selene/files/6902841) -> [2.16.8](https://www.curseforge.com/minecraft/mc-mods/selene/files/6935940)
+    - PotionLevelFix - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/5787723) -> [1.4.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/6934872)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187) -> [0.1.1](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6874340)
     - Snow! Real Magic! - [10.6.4](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6779427) -> [10.6.5](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6888541)
     - Supplementaries - [3.1.36](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6749363) -> [3.1.37](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6889003)
