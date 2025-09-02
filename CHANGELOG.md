@@ -8,6 +8,7 @@
     - Fluidium - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/fluidium/files/6854183)
     - Global GameRules - [8.0.0.11](https://www.curseforge.com/minecraft/mc-mods/global-gamerules/files/4587490)
     - Jaden's Nether Expansion - [2.3.5](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion/files/6729020) + Elysium API - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/elysium-api/files/6589093)
+    - Sleep Tight - [1.4.6](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/6947504)
   - Resourcepacks / Shaderpacks
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
 - Updates
