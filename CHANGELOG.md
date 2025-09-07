@@ -39,6 +39,7 @@
     - none
   - Removals
     - [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass)
+    - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen) (Disabled)
 </details>
 
 <details close>
