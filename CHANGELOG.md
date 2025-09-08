@@ -38,6 +38,7 @@
   - Reverts
     - none
   - Removals
+    - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) + Config
     - [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass)
     - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen) (Disabled)
 </details>
