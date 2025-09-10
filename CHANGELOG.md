@@ -27,10 +27,12 @@
     - Supplementaries - [3.1.36](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6749363) -> [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860)
     - Tide - [1.6.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/6807872) -> [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967)
   - Configs
+    - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
     - [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
     - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+    - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
   - Resourcepacks / Shaderpacks
     - none
