@@ -13,6 +13,7 @@
     - Sparse Structures - [3.0.0](https://www.curseforge.com/minecraft/mc-mods/sparse-structures/files/6453956)
   - Resourcepacks / Shaderpacks
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
+    - Traverse Reforged - [7.0.12](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged/files/6545261)
 - Updates
   - Modpack
     - Abaddon Client - [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
