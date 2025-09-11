@@ -10,6 +10,7 @@
     - Jaden's Nether Expansion - [2.3.5](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion/files/6729020) + Elysium API - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/elysium-api/files/6589093)
     - Reworked Phantoms - [1.2.4](https://www.curseforge.com/minecraft/mc-mods/reworked-phantoms/files/6610250)
     - Sleep Tight - [1.4.6](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/6947504)
+    - Sparse Structures - [3.0.0](https://www.curseforge.com/minecraft/mc-mods/sparse-structures/files/6453956)
   - Resourcepacks / Shaderpacks
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
 - Updates
@@ -47,6 +48,7 @@
     - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) + Config
     - [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass)
     - [Etched](https://www.curseforge.com/minecraft/mc-mods/etched)
+    - [Sparse Structures Reforged](https://www.curseforge.com/minecraft/mc-mods/ssr)
     - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen) (Disabled)
 </details>
 
