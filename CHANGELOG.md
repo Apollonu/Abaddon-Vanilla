@@ -38,6 +38,7 @@
     - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
+    - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
