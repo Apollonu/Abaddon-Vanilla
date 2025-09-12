@@ -11,6 +11,7 @@
     - Reworked Phantoms - [1.2.4](https://www.curseforge.com/minecraft/mc-mods/reworked-phantoms/files/6610250)
     - Sleep Tight - [1.4.6](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/6947504)
     - Sparse Structures - [3.0.0](https://www.curseforge.com/minecraft/mc-mods/sparse-structures/files/6453956)
+    - WITS - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/wits/files/4789318)
   - Resourcepacks / Shaderpacks
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
     - Traverse Reforged - [7.0.12](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged/files/6545261)
