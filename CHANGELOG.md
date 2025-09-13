@@ -35,6 +35,7 @@
     - Tide - [1.6.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/6807872) -> [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery) (Broken Option)
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
     - [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)
