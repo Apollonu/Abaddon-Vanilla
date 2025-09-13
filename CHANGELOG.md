@@ -1,6 +1,34 @@
 <details close>
 <summary><h2>
-  Journey's Gate - <a href="">1.1.6</a> (Nightly)
+  Journey's Gate - <a href="">1.1.7</a> (Nightly)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - none
+  - Configs
+    - none (?)
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Journey's Gate - <a href="">1.1.6</a> (Upcoming)
 </h2></summary><br>
 
 - Additions
@@ -30,6 +58,7 @@
     - Moonlight Lib - [2.16.5](https://www.curseforge.com/minecraft/mc-mods/selene/files/6902841) -> [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934)
     - PotionLevelFix - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/5787723) -> [1.5.0-bugbugfix](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/6956941)
     - Pufferfish's Biome Dither - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6846187) -> [1.0.0](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither/files/6992309)
+    - Shoulder Surfing Reloaded - [4.14.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6784150) -> [4.14.3](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6993788)
     - Snow! Real Magic! - [10.6.4](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6779427) -> [10.6.5](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6888541)
     - Supplementaries - [3.1.36](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6749363) -> [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860)
     - Tide - [1.6.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/6807872) -> [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967)
