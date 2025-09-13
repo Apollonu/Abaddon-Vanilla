@@ -35,6 +35,7 @@
   - Mods
     - Another Furniture - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/6276829)
     - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150)
+    - Explodee - [1.0.0](https://modrinth.com/mod/explodee/version/1.0)
     - Fluidium - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/fluidium/files/6854183)
     - Global GameRules - [8.0.0.11](https://www.curseforge.com/minecraft/mc-mods/global-gamerules/files/4587490)
     - Jaden's Nether Expansion - [2.3.5](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion/files/6729020) + Elysium API - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/elysium-api/files/6589093)
