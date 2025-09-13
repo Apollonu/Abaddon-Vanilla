@@ -38,7 +38,7 @@
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery) (Broken Option)
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
     - [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)
-    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
+    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Missing Mod Icons)
     - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)
