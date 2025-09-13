@@ -14,7 +14,7 @@
   - Mods
     - none
   - Configs
-    - none (?)
+    - none
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
