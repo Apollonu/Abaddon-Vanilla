@@ -29,7 +29,8 @@
   - Reverts
     - none
   - Removals
-    - none
+    - [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
+    - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
 </details>
 
 <details close>
