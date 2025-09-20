@@ -14,7 +14,7 @@
   - Mods
     - none
   - Configs
-    - none
+    - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
