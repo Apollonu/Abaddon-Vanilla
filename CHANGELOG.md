@@ -18,6 +18,7 @@
     - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.39](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7012741)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
   - Resourcepacks / Shaderpacks
