@@ -44,12 +44,12 @@
 	min_spawn_radius = 12
 	#Max light level that a bedbug can spawn at
 	#Range: 0 ~ 15
-	max_allowed_light_level = 15
+	max_allowed_light_level = 2
 	#The game will perform x attempts to spawn a bedbug around each player when they wake up. This already takes into account the chance config.High values will decrease failed attempts
 	#Range: 0 ~ 1000
 	tries = 20
 	#Prevents bedbugs when using dream essence
-	prevented_by_dream_essence = true
+	prevented_by_dream_essence = false
 	#Only spawns bedbugs when sleeping in your home bed
 	only_when_in_home_bed = false
 
@@ -86,15 +86,15 @@
 		effect = "sleep_tight:invigorated"
 
 [sleep_penalties]
-	apply_to_beds = false
-	apply_to_hammock = false
-	apply_to_night_bags = false
+	apply_to_beds = true
+	apply_to_hammock = true
+	apply_to_night_bags = true
 	#Method to calculate hunger loss. Can be based off time slept, difficulty or constant
 	#Allowed Values: CONSTANT, TIME_BASED, DIFFICULTY_BASED, TIME_DIFFICULTY_BASED
 	consumed_hunger_mode = "TIME_DIFFICULTY_BASED"
 	#Base hunger decrement value. Depends on other config. Set to 0 to disable
 	#Range: 0.0 ~ 20.0
-	base_value = 5.0
+	base_value = 0.0
 
 [sleep_requirements]
 	apply_to_beds = true
@@ -109,13 +109,13 @@
 [home_bed]
 	#Amount of nights needed to make a home bed start increasing levels
 	#Range: 1 ~ 50
-	home_bed_benefit_required_nights = 6
+	home_bed_benefit_required_nights = 7
 	#Percentage of xp added per tier of the effect. Setting to 1 doubles the effect
 	#Range: 0.0 ~ 1.0
 	invigorated_effect_xp = 0.1
 	#Home bed level cap. Each night slept increases this number
 	#Range: 0 ~ 1000
-	max_level_cap = 10
+	max_level_cap = 5
 	#Makes respawning only possible when using your own Home Bed. Fight back the night!
 	only_respawn_in_home_bed = false
 
@@ -141,14 +141,14 @@
 [wake_up_encounters]
 	#The game will perform x attempts to spawn a mod around each player every time they sleep.Increases likelihood of finding one. Note that actual value will also depend on local difficulty
 	#Range: 0 ~ 1000
-	tries = 25
+	tries = 8
 	#Max amount of mobs per encounter
 	#Range: 0 ~ 20
 	max_count = 1
 	#Range: 1 ~ 32
-	spawn_radius = 10
+	spawn_radius = 16
 	#Range: 0 ~ 32
-	min_radius = 2
+	min_radius = 6
 	#Range: 1 ~ 10
 	height = 3
 	#Mobs that can randomly wake up the player if sleeping in a dark place. Leave empty to use default spawning behavior. Add a weighted list in the following format (replace line bellow with this example.This is a Toml map btw, check out its syntax):
