@@ -12,8 +12,13 @@
   - Modpack
     - none
   - Mods
-    - none
+    - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.3](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7010141)
+    - Horseman - [1.3.12](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6979073) -> [1.3.13](https://www.curseforge.com/minecraft/mc-mods/horseman/files/7011760)
+    - Moonlight Lib - [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934) -> [2.16.12](https://www.curseforge.com/minecraft/mc-mods/selene/files/7007554)
+    - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.39](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7012741)
   - Configs
+    - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
   - Resourcepacks / Shaderpacks
     - none
