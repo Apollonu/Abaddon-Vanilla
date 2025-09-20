@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
