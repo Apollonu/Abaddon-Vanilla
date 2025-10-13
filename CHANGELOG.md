@@ -24,6 +24,7 @@
     - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.40](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7054158)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
@@ -235,7 +236,6 @@
     - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
     - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
-    - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) (Button)
     - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (Compreessed Blocks, Foxhound, Glass Item Frame, Wraith)
     - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Update)
