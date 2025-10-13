@@ -12,10 +12,16 @@
   - Modpack
     - none
   - Mods
-    - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.3](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7010141)
-    - Horseman - [1.3.12](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6979073) -> [1.3.13](https://www.curseforge.com/minecraft/mc-mods/horseman/files/7011760)
-    - Moonlight Lib - [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934) -> [2.16.12](https://www.curseforge.com/minecraft/mc-mods/selene/files/7007554)
-    - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.39](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7012741)
+    - Amendments - [2.2.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537) -> [2.2.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7049560)
+    - Easel Does It - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/6442916) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/7066891)
+    - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.6](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7102287)
+    - FindMe - [3.2.1](https://www.curseforge.com/minecraft/mc-mods/findme/files/5074609) -> [3.2.3](https://www.curseforge.com/minecraft/mc-mods/findme/files/7069249)
+    - Horseman - [1.3.12](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6979073) -> [1.3.14](https://www.curseforge.com/minecraft/mc-mods/horseman/files/7047189)
+    - Moonlight Lib - [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934) -> [2.16.14](https://www.curseforge.com/minecraft/mc-mods/selene/files/7072721)
+    - Scholar - [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456) -> [1.1.6](https://www.curseforge.com/minecraft/mc-mods/scholar/files/7101874)
+    - Skippy Pearls - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/6252555) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/7092233)
+    - Spawn Animations - [1.11.0](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/6855588) -> [1.11.2](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/7091823)
+    - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.40](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7054158)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
