@@ -25,6 +25,7 @@
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
+    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
@@ -37,6 +38,7 @@
     - none
   - Removals
     - [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
+    - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules) + Config
     - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
 </details>
 
