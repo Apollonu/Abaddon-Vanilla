@@ -5,6 +5,8 @@
 
 - Additions
   - Mods
+    - Difficulty Lock - [4.7.0](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock/files/6186182)
+    - No LAN Cheating - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating/files/5110147)
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
   - Resourcepacks / Shaderpacks
     - none
@@ -24,6 +26,7 @@
     - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.40](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7054158)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [Difficulty Lock](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
