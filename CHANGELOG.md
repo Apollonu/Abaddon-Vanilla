@@ -15,11 +15,13 @@
     - none
   - Mods
     - Amendments - [2.2.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537) -> [2.2.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7049560)
+    - Another Furniture - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/6276829) -> [3.0.3](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/7105169)
     - Easel Does It - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/6442916) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/7066891)
     - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.6](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7102287)
     - FindMe - [3.2.1](https://www.curseforge.com/minecraft/mc-mods/findme/files/5074609) -> [3.2.3](https://www.curseforge.com/minecraft/mc-mods/findme/files/7069249)
     - Horseman - [1.3.12](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6979073) -> [1.3.14](https://www.curseforge.com/minecraft/mc-mods/horseman/files/7047189)
     - Moonlight Lib - [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934) -> [2.16.14](https://www.curseforge.com/minecraft/mc-mods/selene/files/7072721)
+    - Portfolio - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/5654124) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/7102154)
     - Scholar - [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456) -> [1.1.6](https://www.curseforge.com/minecraft/mc-mods/scholar/files/7101874)
     - Skippy Pearls - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/6252555) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/7092233)
     - Spawn Animations - [1.11.0](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/6855588) -> [1.11.2](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/7091823)
