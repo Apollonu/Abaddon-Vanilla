@@ -7,6 +7,7 @@
   - Mods
     - Difficulty Lock - [4.7.0](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock/files/6186182)
     - No LAN Cheating - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating/files/5110147)
+    - Slime Jump - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/slime-jump/files/6443466)
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
   - Resourcepacks / Shaderpacks
     - none
