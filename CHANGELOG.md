@@ -34,6 +34,7 @@
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
+    - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
