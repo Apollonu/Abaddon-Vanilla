@@ -17,7 +17,7 @@
 	["YUNG's Better Mineshafts"."Ore Deposits"]
 		"Enable Ore Deposits" = true
 		# Chance of an ore deposit being cobblestone only.
-		# Default: 55
+		# Default: 50
 		#Range: 0 ~ 100
 		"Cobble Spawn Chance (Empty Deposit)" = 55
 		# Chance of an ore deposit containing coal.
