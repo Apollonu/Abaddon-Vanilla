@@ -9,7 +9,7 @@
     - No LAN Cheating - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating/files/5110147)
     - Not interested! - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/not-interested/files/6501879)
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
-    - Winter Overhaul - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul/files/7074230)
+    - Winter Overhaul - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul/files/7074230) + GeckoLib - [4.8.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/7025129)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
