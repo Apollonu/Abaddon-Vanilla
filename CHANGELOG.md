@@ -45,6 +45,7 @@
     - none
   - Removals
     - [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
+    - [Cascades](https://modrinth.com/datapack/hybrid-beta)
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules) + Config
     - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
 </details>
