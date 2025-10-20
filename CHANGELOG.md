@@ -8,6 +8,7 @@
     - Difficulty Lock - [4.7.0](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock/files/6186182)
     - No LAN Cheating - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating/files/5110147)
     - Not interested! - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/not-interested/files/6501879)
+    - Shifted Lens - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/shifted-lens/files/7012471)
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
     - Winter Overhaul - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul/files/7074230) + GeckoLib - [4.8.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/7025129)
   - Resourcepacks / Shaderpacks
@@ -36,6 +37,7 @@
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
+    - [Shifted Lens](https://www.curseforge.com/minecraft/mc-mods/shifted-lens)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
     - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
