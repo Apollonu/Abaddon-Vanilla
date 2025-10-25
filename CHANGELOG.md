@@ -8,6 +8,7 @@
     - Difficulty Lock - [4.7.0](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock/files/6186182)
     - No LAN Cheating - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating/files/5110147)
     - Not interested! - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/not-interested/files/6501879)
+    - Rabbit Pathfinding Fixed - [1.0.6.1](https://modrinth.com/mod/rabbit-pathfinding-fixed-(unofficial-forge-port)/version/1.0.6.1-1.20+forge)
     - Shifted Lens - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/shifted-lens/files/7012471)
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
     - Winter Overhaul - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul/files/7074230) + GeckoLib - [4.8.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/7025129)
