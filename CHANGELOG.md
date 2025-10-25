@@ -16,7 +16,7 @@
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
     - Winter Overhaul - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul/files/7074230) + GeckoLib - [4.8.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/7025129)
   - Resourcepacks / Shaderpacks
-    - none
+    - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683) -> [1.7.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/7084033)
 - Updates
   - Modpack
     - none
@@ -37,6 +37,7 @@
     - Tide - [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967) -> [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Difficulty Lock](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
@@ -77,10 +78,10 @@
     - Reworked Phantoms - [1.2.4](https://www.curseforge.com/minecraft/mc-mods/reworked-phantoms/files/6610250)
     - Sleep Tight - [1.4.6](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/6947504)
     - Sparse Structures - [3.0.0](https://www.curseforge.com/minecraft/mc-mods/sparse-structures/files/6453956)
+    - Traverse Reforged - [7.0.12](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged/files/6545261)
     - WITS - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/wits/files/4789318)
   - Resourcepacks / Shaderpacks
     - Spawn Animations Compats - [1.11.0](https://modrinth.com/datapack/spawn-animations-compats/version/11.0)
-    - Traverse Reforged - [7.0.12](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged/files/6545261)
 - Updates
   - Modpack
     - Abaddon Client - [1.2.1](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
