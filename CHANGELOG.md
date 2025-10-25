@@ -16,7 +16,7 @@
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
     - Winter Overhaul - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul/files/7074230) + GeckoLib - [4.8.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/7025129)
   - Resourcepacks / Shaderpacks
-    - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683) -> [1.7.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/7084033)
+    - none
 - Updates
   - Modpack
     - Abaddon Client - [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.3](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
@@ -49,7 +49,7 @@
     - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
     - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
   - Resourcepacks / Shaderpacks
-    - none
+    - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683) -> [1.7.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/7084033)
 - Fixes
   - none
 - Reverts / Removals
