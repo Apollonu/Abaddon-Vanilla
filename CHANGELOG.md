@@ -19,7 +19,7 @@
     - none
   - Mods
     - Amendments - [2.2.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537) -> [2.2.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7049560)
-    - Another Furniture - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/6276829) -> [3.0.3](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/7105169)
+    - Another Furniture - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/6276829) -> [3.0.4](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/7131795)
     - Easel Does It - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/6442916) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/7066891)
     - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.8](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7112056)
     - FindMe - [3.2.1](https://www.curseforge.com/minecraft/mc-mods/findme/files/5074609) -> [3.2.3](https://www.curseforge.com/minecraft/mc-mods/findme/files/7069249)
