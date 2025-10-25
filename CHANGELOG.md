@@ -61,6 +61,7 @@
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules) + Config
     - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
     - [Liberty's Villagers](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers)
+    - [Sidekick](https://www.curseforge.com/minecraft/mc-mods/sidekick)
 </details>
 
 <details close>
