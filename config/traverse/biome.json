@@ -3,9 +3,9 @@
     "woodlands": true,
     "desert_shrubland": true,
     "autumnal_woods": false,
-    "lush_swamp": true,
-    "coniferous_forest": true,
+    "lush_swamp": false,
+    "coniferous_forest": false,
     "flatlands": true,
-    "snowy_coniferous_forest": true
+    "snowy_coniferous_forest": false
   }
 }
