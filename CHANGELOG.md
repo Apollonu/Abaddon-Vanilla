@@ -8,6 +8,7 @@
     - Difficulty Lock - [4.7.0](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock/files/6186182)
     - Geophilic Backport - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact/files/6879731)
     - Geophilic Reforged - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-reforged/files/4875199)
+    - Liberty's Villagers Revived - [2.0.1](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived/files/6930028)
     - No LAN Cheating - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating/files/5110147)
     - Not interested! - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/not-interested/files/6501879)
     - Rabbit Pathfinding Fixed - [1.0.6.1](https://modrinth.com/mod/rabbit-pathfinding-fixed-(unofficial-forge-port)/version/1.0.6.1-1.20+forge)
@@ -39,6 +40,7 @@
     - [Difficulty Lock](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
+    - [Liberty's Villagers Revived](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
     - [Shifted Lens](https://www.curseforge.com/minecraft/mc-mods/shifted-lens)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
@@ -56,6 +58,7 @@
     - [Cascades](https://modrinth.com/datapack/hybrid-beta)
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules) + Config
     - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+    - [Liberty's Villagers](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers)
 </details>
 
 <details close>
