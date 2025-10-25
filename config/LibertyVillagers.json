@@ -25,6 +25,8 @@
     "villagersAvoidPowderedSnow": true,
     "villagersAvoidGlassPanes": true,
     "villagerWanderingFix": false,
+    "allowVillagerTeleporting": false,
+    "maxTeleportDistance": 3.0,
     "walkTowardsTaskMaxRunTime": 2400,
     "villagersDontClimb": true,
     "villagerSafeFallDistance": 2
@@ -62,7 +64,7 @@
     "golemsAvoidRail": true,
     "golemsAvoidTrapdoor": true,
     "golemsAvoidPowderedSnow": true,
-    "golemsDontAttackPlayer": true,
+    "golemsDontAttackPlayer": false,
     "golemsDontTrampleCrops": true,
     "villagersDontSummonGolems": false,
     "golemSpawnLimit": false,
