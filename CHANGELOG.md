@@ -19,7 +19,7 @@
     - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683) -> [1.7.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/7084033)
 - Updates
   - Modpack
-    - none
+    - Abaddon Client - [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.3](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Amendments - [2.2.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537) -> [2.2.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7049560)
     - Another Furniture - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/6276829) -> [3.0.4](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/7131795)
