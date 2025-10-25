@@ -46,6 +46,7 @@
     - [Shifted Lens](https://www.curseforge.com/minecraft/mc-mods/shifted-lens)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
+    - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
     - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
   - Resourcepacks / Shaderpacks
     - none
