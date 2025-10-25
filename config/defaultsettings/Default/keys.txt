@@ -132,7 +132,7 @@ treechop.key.toggle_chopping:key.keyboard.unknown:NONE
 treechop.key.toggle_felling:key.keyboard.unknown:NONE
 treechop.key.cycle_sneak_behavior:key.keyboard.unknown:NONE
 treechop.key.open_settings_overlay:key.keyboard.unknown:NONE
-better-creative-tabs.creative_index:key.keyboard.tab:NONE
+better-creative-tabs.creative_index:key.keyboard.grave.accent:NONE
 placebo.toggleTrails:key.keyboard.unknown:NONE
 placebo.toggleWings:key.keyboard.unknown:NONE
 key.carry.desc:key.keyboard.left.shift:NONE
