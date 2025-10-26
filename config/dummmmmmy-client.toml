@@ -18,7 +18,7 @@
 	hay_particles = true
 	#Skin used by the dummy
 	#Allowed Values: DEFAULT, ORIGINAL, ALTERNATIVE, DUNGEONS
-	texture = "DEFAULT"
+	texture = "ALTERNATIVE"
 
 	#Add here custom colors (in hex format) to associate with your damage types. This is a map from damage source ID to a color where you can add new entries for each
 	[visuals.damage_type_colors]
