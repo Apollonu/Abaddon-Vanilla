@@ -6,6 +6,7 @@
 - Additions
   - Mods
     - Difficulty Lock - [4.7.0](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock/files/6186182)
+    - Gardens of the Dead - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/4784269)
     - Geophilic Backport - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact/files/6879731)
     - Geophilic Reforged - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-reforged/files/4875199)
     - Liberty's Villagers Revived - [2.0.1](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived/files/6930028)
