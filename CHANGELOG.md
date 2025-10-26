@@ -42,6 +42,7 @@
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
+    - [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [Liberty's Villagers Revived](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived)
