@@ -5,7 +5,6 @@
 
 - Additions
   - Mods
-    - Difficulty Lock - [4.7.0](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock/files/6186182)
     - Gardens of the Dead - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/4784269)
     - Geophilic Backport - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact/files/6879731)
     - Geophilic Reforged - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-reforged/files/4875199)
@@ -40,7 +39,6 @@
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
-    - [Difficulty Lock](https://www.curseforge.com/minecraft/mc-mods/difficulty-lock)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [Liberty's Villagers Revived](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived)
