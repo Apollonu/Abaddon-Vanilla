@@ -8,6 +8,7 @@
     - Atmospheric - [6.1.1](https://www.curseforge.com/minecraft/mc-mods/atmospheric/files/6393127)
     - Better Spyglass - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/better-spyglass/files/6922045)
     - Buzzier Bees - [6.0.1](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees/files/6151411)
+    - Curios API - [5.14.1](https://www.curseforge.com/minecraft/mc-mods/curios/files/6418456)
     - Environmental - [4.1.2](https://www.curseforge.com/minecraft/mc-mods/environmental/files/7065177)
     - Gardens of the Dead - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/4784269)
     - Geophilic Backport - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact/files/6879731)
