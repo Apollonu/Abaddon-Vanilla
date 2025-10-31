@@ -6,6 +6,7 @@
 - Additions
   - Mods
     - Atmospheric - [6.1.1](https://www.curseforge.com/minecraft/mc-mods/atmospheric/files/6393127)
+    - Autumnity - [5.0.2](https://www.curseforge.com/minecraft/mc-mods/autumnity/files/6151402)
     - Better Spyglass - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/better-spyglass/files/6922045)
     - Buzzier Bees - [6.0.1](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees/files/6151411)
     - Curios API - [5.14.1](https://www.curseforge.com/minecraft/mc-mods/curios/files/6418456)
