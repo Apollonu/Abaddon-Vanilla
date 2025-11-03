@@ -39,6 +39,7 @@
     - Savage & Ravage - [6.0.0](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/6040963) -> [6.0.1](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/7115735)
     - Scholar - [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456) -> [1.1.9](https://www.curseforge.com/minecraft/mc-mods/scholar/files/7124702)
     - Skippy Pearls - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/6252555) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/7092233)
+    - Sleep Tight - [1.4.6](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/6947504) -> [1.4.7](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/7169017)
     - Spawn Animations - [1.11.0](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/6855588) -> [1.11.2](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/7091823)
     - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.41](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7113231)
     - Tide - [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967) -> [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410)
