@@ -55,7 +55,6 @@
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
-    - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
     - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
   - Resourcepacks / Shaderpacks
     - Gallery Portfolio Compat - [1.4.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/6499683) -> [1.7.0](https://www.curseforge.com/minecraft/texture-packs/gallery-portfolio-compat/files/7084033)
@@ -71,6 +70,7 @@
     - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
     - [Liberty's Villagers](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers)
     - [Sidekick](https://www.curseforge.com/minecraft/mc-mods/sidekick)
+    - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged) + Config
 </details>
 
 <details close>
