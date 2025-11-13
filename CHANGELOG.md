@@ -7,6 +7,8 @@
   - Mods
     - Atmospheric - [6.1.1](https://www.curseforge.com/minecraft/mc-mods/atmospheric/files/6393127)
     - Autumnity - [5.0.2](https://www.curseforge.com/minecraft/mc-mods/autumnity/files/6151402)
+    - Better Desert Temples - [3.0.3](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples/files/4769439)
+    - Better Jungle Temples - [2.0.5](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples/files/5331760)
     - Better Rivulet - [0.2.0](https://modrinth.com/datapack/better-rivulet/version/0.2+mod)
     - Better Spyglass - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/better-spyglass/files/6922045)
     - Buzzier Bees - [6.0.1](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees/files/6151411)
@@ -48,6 +50,8 @@
     - Tide - [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967) -> [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
+    - [Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
