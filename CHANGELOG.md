@@ -5,6 +5,7 @@
 
 - Additions
   - Mods
+    - Abnormals Delight - [5.0.1](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight/files/6974241)
     - Atmospheric - [6.1.1](https://www.curseforge.com/minecraft/mc-mods/atmospheric/files/6393127)
     - Autumnity - [5.0.2](https://www.curseforge.com/minecraft/mc-mods/autumnity/files/6151402)
     - Better Desert Temples - [3.0.3](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples/files/4769439)
