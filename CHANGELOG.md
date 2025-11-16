@@ -79,6 +79,7 @@
     - [Liberty's Villagers](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers)
     - [Sidekick](https://www.curseforge.com/minecraft/mc-mods/sidekick)
     - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged) + Config
+    - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen) + Config
 </details>
 
 <details close>
