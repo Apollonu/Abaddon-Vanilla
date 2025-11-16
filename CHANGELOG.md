@@ -16,7 +16,6 @@
     - Curios API - [5.14.1](https://www.curseforge.com/minecraft/mc-mods/curios/files/6418456)
     - Environmental - [4.1.2](https://www.curseforge.com/minecraft/mc-mods/environmental/files/7065177)
     - Gardens of the Dead - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/4784269)
-    - Geophilic Backport - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact/files/6879731)
     - Geophilic Reforged - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/geophilic-reforged/files/4875199)
     - Liberty's Villagers Revived - [2.0.1](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived/files/6930028)
     - MmmMmmMmmMmm - [2.0.9](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/files/6860192)
