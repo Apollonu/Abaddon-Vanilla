@@ -38,6 +38,7 @@
     - FindMe - [3.2.1](https://www.curseforge.com/minecraft/mc-mods/findme/files/5074609) -> [3.2.3](https://www.curseforge.com/minecraft/mc-mods/findme/files/7069249)
     - Horseman - [1.3.12](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6979073) -> [1.3.14](https://www.curseforge.com/minecraft/mc-mods/horseman/files/7047189)
     - Moonlight Lib - [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934) -> [2.16.16](https://www.curseforge.com/minecraft/mc-mods/selene/files/7191950)
+    - Platform [1.2.10.1](https://www.curseforge.com/minecraft/mc-mods/platform/files/6673724) -> [1.2.11.3](https://www.curseforge.com/minecraft/mc-mods/platform/files/7227584)
     - Portfolio - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/5654124) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/7102154)
     - Savage & Ravage - [6.0.0](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/6040963) -> [6.0.1](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/7115735)
     - Scholar - [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456) -> [1.1.9](https://www.curseforge.com/minecraft/mc-mods/scholar/files/7124702)
@@ -48,6 +49,7 @@
     - Spawn Animations - [1.11.0](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/6855588) -> [1.11.2](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod/files/7091823)
     - Supplementaries - [3.1.38](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6974860) -> [3.1.41](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7113231)
     - Tide - [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967) -> [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410)
+    - Vanilla Backport - [1.1.4.3](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/6696334) -> [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/7227619)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
