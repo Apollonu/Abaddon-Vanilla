@@ -60,7 +60,6 @@
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [Liberty's Villagers Revived](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived)
-    - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)
     - [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
     - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Shifted Lens](https://www.curseforge.com/minecraft/mc-mods/shifted-lens)
@@ -82,6 +81,7 @@
     - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules) + Config
     - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
     - [Liberty's Villagers](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers)
+    - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) Config
     - [Sidekick](https://www.curseforge.com/minecraft/mc-mods/sidekick)
     - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged) + Config
     - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen) + Config
