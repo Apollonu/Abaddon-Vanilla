@@ -51,6 +51,7 @@
     - Tide - [1.6.4](https://www.curseforge.com/minecraft/mc-mods/tide/files/6972967) -> [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410)
     - Vanilla Backport - [1.1.4.3](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/6696334) -> [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/7227619)
   - Configs
+    - [Additional Placements](https://www.curseforge.com/minecraft/mc-mods/additional-placements)
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
     - [Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
