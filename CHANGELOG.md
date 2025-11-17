@@ -61,6 +61,7 @@
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [Liberty's Villagers Revived](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived)
     - [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+    - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Shifted Lens](https://www.curseforge.com/minecraft/mc-mods/shifted-lens)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
