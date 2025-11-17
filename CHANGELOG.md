@@ -60,6 +60,7 @@
     - [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (Disabled Selector)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Gamerules)
     - [Liberty's Villagers Revived](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers-revived)
+    - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)
     - [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
     - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Shifted Lens](https://www.curseforge.com/minecraft/mc-mods/shifted-lens)
