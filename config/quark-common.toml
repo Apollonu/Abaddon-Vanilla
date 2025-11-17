@@ -312,7 +312,7 @@
 		"Enable Shift Lock" = true
 
 	[management.expanded_item_interactions]
-		"Enable Armor Interaction" = true
+		"Enable Armor Interaction" = false
 		"Enable Shulker Box Interaction" = true
 		"Enable Lava Interaction" = true
 		"Allow Opening Shulker Boxes" = true
