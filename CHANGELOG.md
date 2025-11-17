@@ -65,6 +65,7 @@
     - [Shifted Lens](https://www.curseforge.com/minecraft/mc-mods/shifted-lens)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
     - [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels)
+    - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
     - [TheOvergrowth](https://www.curseforge.com/minecraft/mc-mods/theovergrowth)
     - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
   - Resourcepacks / Shaderpacks
