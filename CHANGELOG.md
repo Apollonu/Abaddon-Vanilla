@@ -32,10 +32,11 @@
   - Modpack
     - Abaddon Client - [1.2.2](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.3](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
-    - Amendments - [2.2.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537) -> [2.2.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7049560)
+    - Amendments - [2.2.1](https://www.curseforge.com/minecraft/mc-mods/amendments/files/6913537) -> [2.2.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7240735)
     - Another Furniture - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/6276829) -> [3.0.4](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/7131795)
+    - Dark Paintings - [17.0.4](https://www.curseforge.com/minecraft/mc-mods/dark-paintings/files/4809004) -> [17.0.5](https://www.curseforge.com/minecraft/mc-mods/dark-paintings/files/7092391)
     - Easel Does It - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/6442916) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/easel-does-it/files/7066891)
-    - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.11](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7223408)
+    - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.12](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7245151)
     - FindMe - [3.2.1](https://www.curseforge.com/minecraft/mc-mods/findme/files/5074609) -> [3.2.3](https://www.curseforge.com/minecraft/mc-mods/findme/files/7069249)
     - Horseman - [1.3.12](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6979073) -> [1.3.14](https://www.curseforge.com/minecraft/mc-mods/horseman/files/7047189)
     - Moonlight Lib - [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934) -> [2.16.16](https://www.curseforge.com/minecraft/mc-mods/selene/files/7191950)
