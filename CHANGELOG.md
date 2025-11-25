@@ -23,7 +23,7 @@
     - No LAN Cheating - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating/files/5110147)
     - Not interested! - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/not-interested/files/6501879)
     - Rabbit Pathfinding Fixed - [1.0.6.1](https://modrinth.com/mod/rabbit-pathfinding-fixed-(unofficial-forge-port)/version/1.0.6.1-1.20+forge)
-    - Shifted Lens - [2.0.6](https://www.curseforge.com/minecraft/mc-mods/shifted-lens/files/7012471)
+    - Shifted Lens - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/shifted-lens/files/7259730)
     - Storage Labels - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/labels/files/6201654)
     - Winter Overhaul - [3.0.2](https://www.curseforge.com/minecraft/mc-mods/winter-overhaul/files/7074230) + GeckoLib - [4.8.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/7025129)
   - Resourcepacks / Shaderpacks
@@ -44,7 +44,7 @@
     - Portfolio - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/5654124) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/7102154)
     - Savage & Ravage - [6.0.0](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/6040963) -> [6.0.1](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/files/7115735)
     - Scholar - [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/scholar/files/6534456) -> [1.1.9](https://www.curseforge.com/minecraft/mc-mods/scholar/files/7124702)
-    - Shoulder Surfing Reloaded - [4.14.3](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6993788) -> [4.15.0](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7193397)
+    - Shoulder Surfing Reloaded - [4.14.3](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/6993788) -> [4.16.0](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7249331)
     - Skippy Pearls - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/6252555) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/skippy-pearls/files/7092233)
     - Sleep Tight - [1.4.6](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/6947504) -> [1.4.7](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/7169017)
     - Simple Snowy Fix - [2.1.4](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/6769209) -> [2.1.5](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric/files/7205120)
