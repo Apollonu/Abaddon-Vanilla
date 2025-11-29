@@ -86,6 +86,7 @@
     - [Liberty's Villagers](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) Config
     - [Sidekick](https://www.curseforge.com/minecraft/mc-mods/sidekick)
+    - [Squid No Glitch](https://www.curseforge.com/minecraft/mc-mods/squid-no-glitch)
     - [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged) + Config
     - [Undertale Death Screen](https://www.curseforge.com/minecraft/mc-mods/undertale-death-screen) + Config
 </details>
