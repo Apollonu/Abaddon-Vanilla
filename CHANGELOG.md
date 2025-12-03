@@ -39,6 +39,7 @@
     - Every Compat (Wood Good) - [2.9.2](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/6933150) -> [2.9.12](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7245151)
     - FindMe - [3.2.1](https://www.curseforge.com/minecraft/mc-mods/findme/files/5074609) -> [3.2.3](https://www.curseforge.com/minecraft/mc-mods/findme/files/7069249)
     - Horseman - [1.3.12](https://www.curseforge.com/minecraft/mc-mods/horseman/files/6979073) -> [1.3.14](https://www.curseforge.com/minecraft/mc-mods/horseman/files/7047189)
+    - Kiwi - [11.9.2](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/6907020) -> [11.10.0](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/7289940)
     - Moonlight Lib - [2.16.10](https://www.curseforge.com/minecraft/mc-mods/selene/files/6983934) -> [2.16.16](https://www.curseforge.com/minecraft/mc-mods/selene/files/7191950)
     - Platform [1.2.10.1](https://www.curseforge.com/minecraft/mc-mods/platform/files/6673724) -> [1.2.11.3](https://www.curseforge.com/minecraft/mc-mods/platform/files/7227584)
     - Portfolio - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/5654124) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/portfolio/files/7102154)
