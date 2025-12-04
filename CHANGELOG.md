@@ -1,6 +1,34 @@
 <details close>
 <summary><h2>
-  Journey's Gate - <a href="">1.1.7</a> (Nightly)
+  Journey's Gate - <a href="">1.1.8</a> (Nightly)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - none
+  - Configs
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/7291814">1.1.7</a> (Current Release)
 </h2></summary><br>
 
 - Additions
@@ -94,7 +122,7 @@
 
 <details close>
 <summary><h2>
-  Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/6994434">1.1.6</a> (Current Release)
+  Journey's Gate - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-vanilla/files/6994434">1.1.6</a>
 </h2></summary><br>
 
 - Additions
