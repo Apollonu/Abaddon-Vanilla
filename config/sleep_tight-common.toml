@@ -38,10 +38,10 @@
 	spawn_chance = 0.11
 	#max radius at which they can spawn
 	#Range: 1 ~ 64
-	max_spawn_radius = 24
+	max_spawn_radius = 22
 	#min radius from which they can spawn
 	#Range: 1 ~ 64
-	min_spawn_radius = 12
+	min_spawn_radius = 8
 	#Max light level that a bedbug can spawn at
 	#Range: 0 ~ 15
 	max_allowed_light_level = 2
@@ -125,15 +125,15 @@
 	apply_to_night_bags = false
 	#Amount of consecutive nights slept after which nightmares could start to happen
 	#Range: 0 ~ 100
-	appear_after_consecutive_nights = 3
+	appear_after_consecutive_nights = 14
 	#Range: 0.0 ~ 1.0
-	nightmare_increment_per_night = 0.16
+	nightmare_increment_per_night = 0.04
 	#Multiplier applied to time slept after a nightmare
 	#Range: 0.01 ~ 1.0
 	sleep_time_multiplier = 0.5
 	#Refractory period after a nightmare in which you won't be able to sleep
 	#Range: 0 ~ 1000000
-	insomnia_duration = 36000
+	insomnia_duration = 6000
 	#Chance multiplier to have a nightmare when sleeping in a special bed. A 'special bed' is simply any (likely modded) bed that cant be targeted by a villager and or bedbug. Increased chance since you would be skipping bedbugs encounter otherwise
 	#Range: 1.0 ~ 5.0
 	special_bed_nightmare_chance_mult = 1.2
@@ -165,5 +165,5 @@
 	sleep_time_multiplier = 0.5
 	#Refractory period after an encounter in which you won't be able to sleep
 	#Range: 0 ~ 1000000
-	insomnia_duration = 12000
+	insomnia_duration = 3000
 
