@@ -15,7 +15,7 @@
     - Gardens of the Dead - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/4784269) -> [4.0.4](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/7309542)
     - Shoulder Surfing Reloaded - [4.16.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7279952) -> [4.17.0](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7305583)
   - Configs
-    - none
+    - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
