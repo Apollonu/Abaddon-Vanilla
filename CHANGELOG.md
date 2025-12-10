@@ -16,6 +16,7 @@
     - Shoulder Surfing Reloaded - [4.16.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7279952) -> [4.17.0](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7305583)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+    - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
   - Resourcepacks / Shaderpacks
     - none
