@@ -10,10 +10,11 @@
     - none
 - Updates
   - Modpack
-    - none
+    - Abaddon Client - [1.2.3](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.4](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
     - Gardens of the Dead - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/4784269) -> [4.0.4](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/7309542)
     - Shoulder Surfing Reloaded - [4.16.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7279952) -> [4.17.0](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7305583)
+    - Zeta - [1.0.30](https://www.curseforge.com/minecraft/mc-mods/zeta/files/6432578) -> [1.0.31](https://www.curseforge.com/minecraft/mc-mods/zeta/files/7335229)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
@@ -381,7 +382,7 @@
     - Supplementaries - [3.1.18](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6228530) -> [3.1.30](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/6463022)
     - Variable Spawner Hardness - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/variable-spawner-hardness/files/4593378) -> [1.4.2](https://www.curseforge.com/minecraft/mc-mods/variable-spawner-hardness/files/6407087)
     - Watut - [1.2.2](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to/files/6299347) -> [1.2.3](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to/files/6315241)
-    - Zeta - [1.0-24](https://www.curseforge.com/minecraft/mc-mods/zeta/files/5597406) -> [1.0-30](https://www.curseforge.com/minecraft/mc-mods/zeta/files/6432578)
+    - Zeta - [1.0.24](https://www.curseforge.com/minecraft/mc-mods/zeta/files/5597406) -> [1.0.30](https://www.curseforge.com/minecraft/mc-mods/zeta/files/6432578)
   - Configs
     - [Additional Placements](https://www.curseforge.com/minecraft/mc-mods/additional-placements) (Tags)
     - [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) (Minimum Y-Axis)
