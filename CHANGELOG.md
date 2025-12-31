@@ -14,8 +14,8 @@
   - Mods
     - Every Compat (Wood Good) - [2.9.12](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7245151) -> [2.9.13](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7379475)
     - Gardens of the Dead - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/4784269) -> [4.0.4](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead/files/7309542)
-    - Moonlight Lib - [2.16.16](https://www.curseforge.com/minecraft/mc-mods/selene/files/7191950) -> [2.16.18](https://www.curseforge.com/minecraft/mc-mods/selene/files/7385185)
-    - Shoulder Surfing Reloaded - [4.16.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7279952) -> [4.17.0](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7305583)
+    - Moonlight Lib - [2.16.16](https://www.curseforge.com/minecraft/mc-mods/selene/files/7191950) -> [2.16.19](https://www.curseforge.com/minecraft/mc-mods/selene/files/7388296)
+    - Shoulder Surfing Reloaded - [4.16.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7279952) -> [4.18.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7392767)
     - Zeta - [1.0.30](https://www.curseforge.com/minecraft/mc-mods/zeta/files/6432578) -> [1.0.31](https://www.curseforge.com/minecraft/mc-mods/zeta/files/7335229)
   - Configs
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
