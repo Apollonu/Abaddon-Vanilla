@@ -21,6 +21,7 @@
     - [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+    - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
   - Resourcepacks / Shaderpacks
     - none
