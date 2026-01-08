@@ -12,7 +12,9 @@
   - Modpack
     - Abaddon Client - [1.2.4](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.5](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
-    - none
+    - Every Compat (Wood Good) - [2.9.13](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7379475) -> [2.9.14](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7420237)
+    - Moonlight Lib - [2.16.19](https://www.curseforge.com/minecraft/mc-mods/selene/files/7388296) -> [2.16.21](https://www.curseforge.com/minecraft/mc-mods/selene/files/7431825)
+    - Supplementaries - [3.1.41](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7113231) -> [3.1.42](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7431873)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
