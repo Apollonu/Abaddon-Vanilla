@@ -17,7 +17,7 @@
     - Supplementaries - [3.1.41](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7113231) -> [3.1.42](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7431873)
     - Tide - [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410) -> [2.0.0](https://www.curseforge.com/minecraft/mc-mods/tide/files/7438931)
   - Configs
-    - none
+    - [Tide](https://www.curseforge.com/minecraft/mc-mods/tide)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
