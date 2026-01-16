@@ -29,7 +29,7 @@
   - Reverts
     - none
   - Removals
-    - none
+    - [Regrowth](https://www.curseforge.com/minecraft/mc-mods/regrowth)
 </details>
 
 <details close>
