@@ -12,10 +12,13 @@
   - Modpack
     - Abaddon Client - [1.2.4](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) -> [1.2.5](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md)
   - Mods
+    - Amendments - [2.2.3](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7240735) -> [2.2.4](https://www.curseforge.com/minecraft/mc-mods/amendments/files/7460888)
     - Every Compat (Wood Good) - [2.9.13](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7379475) -> [2.9.15](https://www.curseforge.com/minecraft/mc-mods/every-compat/files/7436288)
-    - Moonlight Lib - [2.16.19](https://www.curseforge.com/minecraft/mc-mods/selene/files/7388296) -> [2.16.21](https://www.curseforge.com/minecraft/mc-mods/selene/files/7431825)
+    - Moonlight Lib - [2.16.19](https://www.curseforge.com/minecraft/mc-mods/selene/files/7388296) -> [2.16.23](https://www.curseforge.com/minecraft/mc-mods/selene/files/7469722)
+    - PotionLevelFix - [1.5.0-bugbugfix](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/6956941) -> [1.6.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/7458869)
+    - Shoulder Surfing Reloaded - [4.18.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7392767) -> [4.18.2](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7446740)
     - Supplementaries - [3.1.41](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7113231) -> [3.1.42](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7431873)
-    - Tide - [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410) -> [2.0.0](https://www.curseforge.com/minecraft/mc-mods/tide/files/7438931)
+    - Tide - [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410) -> [2.0.1](https://www.curseforge.com/minecraft/mc-mods/tide/files/7457003)
   - Configs
     - [Tide](https://www.curseforge.com/minecraft/mc-mods/tide)
   - Resourcepacks / Shaderpacks
