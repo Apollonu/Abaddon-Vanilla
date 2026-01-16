@@ -24,7 +24,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - none
+  - Animals Randomly Dying (Probably Starving) In Pins
+  - Bulk Fan Recipes Not Showing
 - Reverts / Removals
   - Reverts
     - none
