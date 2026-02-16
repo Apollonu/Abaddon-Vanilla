@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Duplicationless - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/duplicationless/files/7488665)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
