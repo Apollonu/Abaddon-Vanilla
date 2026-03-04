@@ -29,6 +29,7 @@
     - Platform [1.2.11.3](https://www.curseforge.com/minecraft/mc-mods/platform/files/7227584) -> [1.2.11.6.2](https://www.curseforge.com/minecraft/mc-mods/platform/files/7609676)
     - PotionLevelFix - [1.5.0-bugbugfix](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/6956941) -> [1.6.0](https://www.curseforge.com/minecraft/mc-mods/potionlevelfix/files/7458869)
     - Shoulder Surfing Reloaded - [4.18.1](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7392767) -> [4.22.0](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/7692898)
+    - Sleep Tight - [1.4.7](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/7169017) -> [1.4.6](https://www.curseforge.com/minecraft/mc-mods/sleep-tight/files/6947504)
     - Snow! Real Magic! - [10.6.5](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/6888541) -> [10.7.0](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/7472648)
     - Supplementaries - [3.1.41](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7113231) -> [3.1.42](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/7431873)
     - Tide - [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410) -> [2.0.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/7586275)
