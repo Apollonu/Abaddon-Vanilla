@@ -6,6 +6,7 @@
 - Additions
   - Mods
     - Duplicationless - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/duplicationless/files/7488665)
+    - Spawn Animations Compats - [13.0.0](https://modrinth.com/datapack/spawn-animations-compats/version/13.0+mod)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
