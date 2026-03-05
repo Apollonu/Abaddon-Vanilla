@@ -43,7 +43,7 @@
   - Bulk Fan Recipes Not Showing
 - Reverts / Removals
   - Reverts
-    - none
+    - [Cascades](https://modrinth.com/datapack/hybrid-beta)
   - Removals
     - [Regrowth](https://www.curseforge.com/minecraft/mc-mods/regrowth)
 </details>
