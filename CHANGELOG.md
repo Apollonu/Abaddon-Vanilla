@@ -35,6 +35,7 @@
     - Tide - [1.6.5](https://www.curseforge.com/minecraft/mc-mods/tide/files/7115410) -> [2.0.3](https://www.curseforge.com/minecraft/mc-mods/tide/files/7586275)
     - Vanilla Backport - [1.1.5.1](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/7227619) -> [1.1.5.4.2](https://www.curseforge.com/minecraft/mc-mods/vanillabackport/files/7597658)
   - Configs
+    - [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
     - [Tide](https://www.curseforge.com/minecraft/mc-mods/tide)
   - Resourcepacks / Shaderpacks
     - none
